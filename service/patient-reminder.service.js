@@ -136,7 +136,8 @@ function qualifiesDifferenciatedReminders(data){
             display: {
                 banner: true,
                 toast: true
-            }
+            },
+            auto_register: '334c9e98-173f-4454-a8ce-f80b20b7fdf0'
         });
             
     } else {
@@ -277,7 +278,8 @@ function qualifiesEnhancedReminders(data) {
                 display: {
                     banner: true,
                     toast: true
-                }
+                },
+                auto_register: 'c4246ff0-b081-460c-bcc5-b0678012659e'
             });
             break;
         case 2:
