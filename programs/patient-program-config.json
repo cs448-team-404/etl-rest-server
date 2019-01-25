@@ -657,7 +657,7 @@
         "uuid": "72443cac-4822-4dce-8460-794af7af8167",
         "forms": []
       },
-        {
+      {
         "type": "referred",
         "uuid": "0c5565c5-45cf-40ab-aa6d-5694aeabae18",
         "forms": [
@@ -1470,10 +1470,10 @@
       "allowMultipleEnrollment": false,
       "stateChangeEncounterTypes": {
         "enrollment": [{
-            "uuid": "ae35ed69-e07c-4209-93ce-f23733aa816b",
-            "name": "AMPATH POC Know Your Status Form v1.0",
-            "required": false
-          }],
+          "uuid": "ae35ed69-e07c-4209-93ce-f23733aa816b",
+          "name": "AMPATH POC Know Your Status Form v1.0",
+          "required": false
+        }],
         "intraAmpath": [],
         "discharge": [{
           "uuid": "9765992c-6279-46cc-915b-452a73e7dab5",
@@ -1593,7 +1593,7 @@
             "display": "DRUGPICKUP"
           }
         ]
-       },
+      },
       {
         "uuid": "9bf3fadd-4938-40fa-a093-4e01bf197876",
         "name": "Differentiated Care Facility Visit ",
@@ -2849,7 +2849,7 @@
       "patient",
       "enrollment",
       "hivLastTenClinicalEncounters"
-      ],
+    ],
     "enrollmentOptions": {
       "requiredProgramQuestions": [
         {
@@ -2892,7 +2892,7 @@
         }]
       }
     },
-      "visitTypes": [
+    "visitTypes": [
       {
         "uuid": "6c5d74f4-943f-489a-b1c4-b2accfae92fb",
         "name": "MDT Visit",
@@ -3188,5 +3188,5 @@
     ]
 
   }
-  
+
 }
